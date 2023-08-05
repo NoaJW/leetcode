@@ -1,3 +1,4 @@
+# Leetcode challenges
 Leetcode's algorithmic challenges that I use for DSA practice. Each question will typically include:
 - URL to the problem on Leetcode 
 - My solution 
